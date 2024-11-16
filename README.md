@@ -10,7 +10,12 @@ I thrive on solving complex problems through innovative machine learning solutio
 - **Machine Learning Development**: Dockerized Jupyter-based environments for reproducible ML workflows ([ML_dev_container](https://github.com/john2408/ML_dev_container)).  
 - **Time Series Forecasting**: Leveraging advanced algorithms and wavelet transformations ([Timeseries_Wavelet](https://github.com/john2408/Timeseries_Wavelet)).  
 - **AI for Automated Trading**: Tensor-driven cryptocurrency trading strategies ([TensorTrader-System](https://github.com/john2408/tensortrader-system)).  
-- **Azure ML Integration**: Custom Docker images for scalable machine learning ([Azure_ML_Training_Job](https://github.com/john2408/Azure_ML_Training_Job)).  
+- **Azure ML Integration**: Custom Docker images for scalable machine learning ([Azure_ML_Training_Job](https://github.com/john2408/Azure_ML_Training_Job)).
+  
+## 📚 **Publications**
+### 🔹 [Inbound Logistics Forecasting System](https://www.mdpi.com/2673-4591/39/1/75)
+- I have authored a paper on **Forecasting System for Inbound Logistics Forecasting**, focusing on predictive models and their application in real-world scenarios. You can read the full paper [here](https://www.mdpi.com/2673-4591/39/1/75).
+
 
 ## 🐳 **Dockerized Solutions**  
 
